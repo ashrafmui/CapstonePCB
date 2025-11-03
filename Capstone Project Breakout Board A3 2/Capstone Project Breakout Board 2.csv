@@ -1,0 +1,28 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C10",2,47 uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C2,C7",2,0.1 uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C3,C4,C5,C6",4,22 uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"C8,C9,C12",3,47uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+C11,1,2 uF,,,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+"D1,D2,D3",3,SS14,,,,Diode_SMD:D_SMA,https://www.vishay.com/docs/88746/ss12.pdf
+J2,1,Conn_01x04,,,,Connector:FanPinHeader_1x04_P2.54mm_Vertical,~
+"J3,J4",2,Conn_01x03_MountingPin,,,,Connector_Molex:Molex_CLIK-Mate_502382-0370_1x03-1MP_P1.25mm_Vertical,~
+"J5,J6",2,Conn_01x16,,,,Connector_PinSocket_2.00mm:PinSocket_1x16_P2.00mm_Vertical,~
+J7,1,Conn_01x02,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,~
+"JP1,JP2,JP3",3,SolderJumper_3_Bridged12,,Excluded from BOM,,Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,~
+L1,1,1 uH,,,,Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder,~
+"Q1,Q2,Q3",3,AO3400A,,,,Package_TO_SOT_SMD:SOT-23,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+R1,1,732k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R2,R3,R10,R12,R14",5,100k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R4,R13,R20",3,100,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R5,1,0,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+"R6,R7,R8,R9,R11,R15",6,10k,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+R16,1,1M,,,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+SW1,1,SW_Push,,,,Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin,~
+U1,1,TPS61022,,,,Package_DFN_QFN:Texas_RWU0007A_VQFN-7_2x2mm_P0.5mm,https://www.ti.com/lit/ds/symlink/tps61022.pdf
+U3,1,~,,,,,
+U4,1,TPS2116DRL,,,,Package_TO_SOT_SMD:SOT-583-8,https://www.ti.com/lit/ds/symlink/tps2116.pdf
+,,,,,,,
+,,,,,,,
+RED = DON'T ORDER,,,,,,,
+YELLOW = SWITCH LATER,,,,,,,
